@@ -1,5 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
-You've stumpled upon my little cozy place on Github.
+You seemed to have ended up on my Github Profile!
 
-Welcome.
