@@ -1,4 +1,4 @@
 ### Hello there 👋
 
-You seemed to have ended up on my Github Profile!
+You seem to have ended up on my Github Profile!
 
